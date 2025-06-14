@@ -1,4 +1,4 @@
-import Comment from "./comment";
+import Comment from "./Comment"; 
 export default function Comments() {
   return (
     <div className="flex flex-col gap-8 lg:w-3/5">
